@@ -1,0 +1,38 @@
+@charset "UTF-8";
+
+    main{
+        background-color: white;
+        box-shadow: 300px 300px 300px #ABCBD6;
+        width: 700px; height: 300px;
+        border-radius: 15px;
+        padding: 40px;
+        margin: auto;
+        box-shadow: 10px 10px 30px #0D5063;
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+    }
+
+    body{
+        background-image: radial-gradient(circle, #32D181, #ABCBD6, #3996ED, #39EDCF, #3996ED);
+    }
+
+    h1{
+        font-size: 3em;
+    }
+   
+    h2{
+        font-size: 2em;
+    }
+   
+    p{
+        font-size: 1em;
+    }
+    
+    img{
+        position: absolute;
+        top: 130%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+    }
